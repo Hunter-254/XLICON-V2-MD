@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['33757054415', 'Abraham Dwamena3', true],
+  ['254790759013', 'WHITE', true], 
+  ['254790759013', 'Abraham Dwamena', true],
+  ['254790759013', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['254790759013', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
+  ['254790759013', 'Abraham Dwamena2', true],
+  ['254790759013', 'Abraham Dwamena3', true],
   
 ] //Number of owners
 
